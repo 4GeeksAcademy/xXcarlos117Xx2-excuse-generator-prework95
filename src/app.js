@@ -28,4 +28,5 @@ window.onload = function() {
     what[random_number_what] +
     " " +
     when[random_number_when];
+    // Todo esta terminado 🤑
 };
